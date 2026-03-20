@@ -1,7 +1,7 @@
 # Mohammed Imran Ibrahim
 
 **MSc Artificial Intelligence** | Berlin School of Business and Innovation  
-Based in Bruchsal, Germany
+Based in Berlin, Germany
 
 ---
 
@@ -25,9 +25,9 @@ I'm currently looking for a **Werkstudent or internship position** in the Karlsr
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [YOLO Keypoint + ROS2](https://github.com/immr4n/Keypoint-Detection-using-YOLO-and-ROS2-in-a-Simulated-Environment.) | Human pose detection & gesture-to-velocity robot control | ROS2, YOLOv8, Python, Gazebo |
-| [Breast Cancer Classification](https://github.com/immr4n/Assignment) | SVM vs KNN vs Logistic Regression on medical data | Python, scikit-learn |
-| [Credit Card Fraud Detection](https://github.com/immr4n/Q1115259--Credit-Card-Fraud-Assignment) | Handling imbalanced datasets with SMOTE + Random Forest | Python, scikit-learn |
+| [YOLO Keypoint + ROS2](https://github.com/immr4n/YOLO-Keypoint-ROS2-Gesture-Control) | Human pose estimation & gesture-to-velocity robot control | ROS2, YOLOv8, Python, Gazebo |
+| [Breast Cancer Classification](https://github.com/immr4n/Breast-Cancer-ML-Classification) | SVM vs KNN vs Logistic Regression on medical data | Python, scikit-learn |
+| [Credit Card Fraud Detection](https://github.com/immr4n/Credit-Card-Fraud-Detection-ML) | Handling imbalanced datasets with SMOTE + Random Forest | Python, scikit-learn |
 
 ---
 
